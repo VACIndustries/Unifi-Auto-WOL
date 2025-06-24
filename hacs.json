@@ -1,0 +1,9 @@
+{
+  "name": "UniFi Auto Wake-on-LAN",
+  "content_in_root": false,
+  "filename": "unifi_auto_wol",
+  "country": ["US", "GB", "CA", "AU", "NZ", "DE", "FR", "NL", "SE", "NO", "DK", "FI"],
+  "render_readme": true,
+  "zip_release": false,
+  "hide_default_branch": false
+}
