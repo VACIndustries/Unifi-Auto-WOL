@@ -142,13 +142,11 @@ Issues and pull requests are welcome! Please check existing issues before creati
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-[releases-shield]: https://img.shields.io/github/release/yourusername/unifi-auto-wol.svg?style=for-the-badge
-[releases]: https://github.com/yourusername/unifi-auto-wol/releases
-[commits-shield]: https://img.shields.io/github/commit-activity/y/yourusername/unifi-auto-wol.svg?style=for-the-badge
-[commits]: https://github.com/yourusername/unifi-auto-wol/commits/main
-[license-shield]: https://img.shields.io/github/license/yourusername/unifi-auto-wol.svg?style=for-the-badge
-[license]: https://github.com/yourusername/unifi-auto-wol/blob/main/LICENSE
+[releases-shield]: https://img.shields.io/github/release/VACIndustries/unifi-auto-wol.svg?style=for-the-badge
+[releases]: https://github.com/VACIndustries/unifi-auto-wol/releases
+[commits-shield]: https://img.shields.io/github/commit-activity/y/VACIndustries/unifi-auto-wol.svg?style=for-the-badge
+[commits]: https://github.com/VACIndustries/unifi-auto-wol/commits/main
+[license-shield]: https://img.shields.io/github/license/VACIndustries/unifi-auto-wol.svg?style=for-the-badge
+[license]: https://github.com/VACIndustries/unifi-auto-wol/blob/main/LICENSE
 [hacs]: https://github.com/hacs/integration
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
