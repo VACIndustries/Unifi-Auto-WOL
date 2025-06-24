@@ -2,7 +2,7 @@
   "domain": "unifi_auto_wol",
   "name": "UniFi Auto Wake-on-LAN",
   "documentation": "https://github.com/VACIndustries/unifi_auto_wol",
-  "dependencies": [],
+  "dependencies": ["unifi"],
   "codeowners": [],
   "requirements": [],
   "config_flow": true,

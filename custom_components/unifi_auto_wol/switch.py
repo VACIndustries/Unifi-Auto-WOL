@@ -193,7 +193,6 @@ class UniFiWoLSwitch(SwitchEntity):
             "name": self._attr_name,
             "manufacturer": "UniFi Auto WoL",
             "model": "Wake-on-LAN Switch",
-            "via_device": ("unifi", "controller"),
         }
     
     @property
